@@ -1,4 +1,4 @@
-# Programming Portfolio
+# ShyBria's Programming Portfolio
 
 ## To Be or Not To Be Racist Website (Project 3)
 
@@ -34,4 +34,28 @@ This image just shows the Creator tab and my appreciation for my professor, lol.
 ## Morse Code Converter
 
 <img width="1051" height="772" alt="Screenshot 2025-12-02 at 5 23 14 PM" src="https://github.com/user-attachments/assets/eadb8efe-c6d2-41ec-aa3e-3fccc63c13cb" />
+
+
+
+
+## Temperature Forecast in Chicago
+
+<img width="1441" height="825" alt="Screenshot 2025-12-02 at 5 47 54 PM" src="https://github.com/user-attachments/assets/19206925-4138-4c22-804f-2ed3e29eb36e" />
+
+
+
+
+## Rubber Ducky Guessing Game
+
+<img width="1444" height="847" alt="Screenshot 2025-12-02 at 5 49 47 PM" src="https://github.com/user-attachments/assets/c99fdbb1-5062-4e11-a2e9-3ea5eb4e1138" />
+
+
+
+
+
+## ShyBria's Graphic Design Portfoilio
+<img width="1470" height="956" alt="Screenshot 2025-12-02 at 5 50 50 PM" src="https://github.com/user-attachments/assets/eeda3563-90d2-426f-8790-b91ef9b55702" />
+<img width="1470" height="956" alt="Screenshot 2025-12-02 at 5 50 55 PM" src="https://github.com/user-attachments/assets/8ee414b2-45e7-40a8-8aac-c3a4ea27e9f1" />
+<img width="1470" height="956" alt="Screenshot 2025-12-02 at 5 51 02 PM" src="https://github.com/user-attachments/assets/57d85040-9f61-4f9f-b9df-892ddf29ee5e" />
+
 
