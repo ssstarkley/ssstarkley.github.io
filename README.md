@@ -35,6 +35,29 @@ This image just shows the Creator tab and my appreciation for my professor, lol.
 
 <img width="1051" height="772" alt="Screenshot 2025-12-02 at 5 23 14 PM" src="https://github.com/user-attachments/assets/eadb8efe-c6d2-41ec-aa3e-3fccc63c13cb" />
 
+The morse code converter allows the viewer to type into the box and convert each character into a morse code. 
+
+
+## Rubber Ducky Guessing Game
+
+<img width="1444" height="847" alt="Screenshot 2025-12-02 at 5 49 47 PM" src="https://github.com/user-attachments/assets/c99fdbb1-5062-4e11-a2e9-3ea5eb4e1138" />
+
+This little game allows the user to guess how many rubber duckies are in hiding. After a guess, it will confirm whether they are right or not, and display how many of the colorful duckies that there are. 
+
+
+
+## ShyBria's Graphic Design Portfolio Website
+
+<img width="1436" height="854" alt="Screenshot 2025-12-02 at 6 01 40 PM" src="https://github.com/user-attachments/assets/39dca811-f3ee-4b6a-9921-a15bfd56b2f0" />
+This website was still a work in progress with the other tabs, but I was able to experiment with the layouts and insertion of videos with coding!
+
+<img width="1443" height="854" alt="Screenshot 2025-12-02 at 6 01 54 PM" src="https://github.com/user-attachments/assets/69ea1185-950b-4f9b-b949-d8f801341a0c" />
+
+
+
+<img width="1445" height="852" alt="Screenshot 2025-12-02 at 6 02 16 PM" src="https://github.com/user-attachments/assets/8e44f868-472c-43f4-9e4d-87316282d7ad" />
+
+
 
 
 
@@ -42,20 +65,7 @@ This image just shows the Creator tab and my appreciation for my professor, lol.
 
 <img width="1441" height="825" alt="Screenshot 2025-12-02 at 5 47 54 PM" src="https://github.com/user-attachments/assets/19206925-4138-4c22-804f-2ed3e29eb36e" />
 
+The temperature Forecast updates weekly with the graph of the temperature in the Chicago area. 
 
-
-
-## Rubber Ducky Guessing Game
-
-<img width="1444" height="847" alt="Screenshot 2025-12-02 at 5 49 47 PM" src="https://github.com/user-attachments/assets/c99fdbb1-5062-4e11-a2e9-3ea5eb4e1138" />
-
-
-
-
-
-## ShyBria's Graphic Design Portfoilio
-<img width="1470" height="956" alt="Screenshot 2025-12-02 at 5 50 50 PM" src="https://github.com/user-attachments/assets/eeda3563-90d2-426f-8790-b91ef9b55702" />
-<img width="1470" height="956" alt="Screenshot 2025-12-02 at 5 50 55 PM" src="https://github.com/user-attachments/assets/8ee414b2-45e7-40a8-8aac-c3a4ea27e9f1" />
-<img width="1470" height="956" alt="Screenshot 2025-12-02 at 5 51 02 PM" src="https://github.com/user-attachments/assets/57d85040-9f61-4f9f-b9df-892ddf29ee5e" />
 
 
